@@ -14,7 +14,7 @@ An Android, Windows and Linux user, tech lover, Xbox player and music enthusiast
     src="https://img.shields.io/badge/-Android-black?style=flat&logo=android"> <br />
 <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white"> <img
     src="https://img.shields.io/badge/-Terminal-black?style=flat&logo=GNU%20Bash&logoColor=white"> <br />
-    src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown"> <br />
+<img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown"> <br />
 
 **:pushpin: Profile overview:**
 
