@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">✨ +6 years creating and solving bugs<br>🎯 Goals: create fun projects and help people with useful projects<br>🎲 Programming is just one of my two main hobbies. I also love dancing.</p>
+<p align="left">✨ +7 years creating and solving bugs<br>🎯 Goals: create fun projects and help people with useful projects<br>🎲 Programming is just one of my two main hobbies. I also love dancing.</p>
 
 ###
 
